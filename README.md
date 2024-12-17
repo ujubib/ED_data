@@ -41,6 +41,13 @@ français
 </details>
 
 
+> [!INFO]
+>
+> *Les données de la recherche sont définies comme des enregistrements factuels (chiffres, textes, images et sons), qui sont utilisés comme sources principales pour la recherche scientifique et sont généralement reconnus par la communauté scientifique comme nécessaires pour valider des résultats de recherche.*
+>
+> Définition proposée par l’OCDE dans son rapport « [Principes et lignes directrices pour l’accès aux données de la recherche financée sur fonds publics de 2007](https://www.oecd-ilibrary.org/science-and-technology/oecd-principles-and-guidelines-for-access-to-research-data-from-public-funding_9789264034020-en-fr?mlang=fr) ».
+
+
 ## Science Ouverte
 
 ![Source : <https://scienceouverte.univ-grenoble-alpes.fr/donnees/cycle-de-vie/>](https://scienceouverte.univ-grenoble-alpes.fr/wp-content/uploads/2021/09/2021-06-24_Cycle-de-vie-donnees-1-598x600.png)
