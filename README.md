@@ -43,6 +43,9 @@ français
 
 ## Science Ouverte
 
+![source : https://scienceouverte.univ-grenoble-alpes.fr/donnees/cycle-de-vie/](https://scienceouverte.univ-grenoble-alpes.fr/wp-content/uploads/2021/09/2021-06-24_Cycle-de-vie-donnees-1-598x600.png)
+
+
 ### Chez [DORANum](https://doranum.fr/)
 
 - [Comment bien nommer ses fichiers](https://doranum.fr/stockage-archivage/comment-nommer-fichiers_10_13143_wgqw-aa59/)
@@ -57,6 +60,10 @@ français
   - [Référentiel général d’interopérabilité (RGI)](https://www.numerique.gouv.fr/uploads/Referentiel_General_Interoperabilite_V2.pdf) \[pdf\] - Direction générale de la modernisation de l’Etat
   - [Formats de fichiers pour l’archivage](https://www.cines.fr/archivage/des-expertises/les-formats-de-fichier/) sur le site du CINES
   - [Outil du CINES](https://facile.cines.fr/) pour tester la validité d'un fichier au format ouvert
+
+### Principes FAIR
+
+<iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d64fbbd8352350fa3d22603" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all" width="1200px" height="675px" frameborder="0"></iframe>
 
 ## Avoir Un *Cloud*
 
