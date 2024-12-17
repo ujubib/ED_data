@@ -47,9 +47,16 @@ français
 
 - [Comment bien nommer ses fichiers](https://doranum.fr/stockage-archivage/comment-nommer-fichiers_10_13143_wgqw-aa59/)
 
-- [La sauvegarde 3-2-1](https://doranum.fr/stockage-archivage/la-sauvegarde-3-2-1_10_13143_1gdh-tk61/) [video 1'49]
+- [La sauvegarde 3-2-1](https://doranum.fr/stockage-archivage/la-sauvegarde-3-2-1_10_13143_1gdh-tk61/) \[video 1'49\]
 
 - [Stockage et archivage : fiche synthétique](https://doranum.fr/stockage-archivage/stockage-et-archivage-fiche-synthetique_10_13143_0c4b-2743/)
+
+### Formats de fichiers
+
+- [Page ressource](https://scienceouverte.univ-grenoble-alpes.fr/donnees/organiser/formats/) sur le site *Science ouverte* de l'Université Grenoble Alpes. Liens vers : 
+  - [Référentiel général d’interopérabilité (RGI)](https://www.numerique.gouv.fr/uploads/Referentiel_General_Interoperabilite_V2.pdf) \[pdf\] - Direction générale de la modernisation de l’Etat
+  - [Formats de fichiers pour l’archivage](https://www.cines.fr/archivage/des-expertises/les-formats-de-fichier/) sur le site du CINES
+  - [Outil du CINES](https://facile.cines.fr/) pour tester la validité d'un fichier au format ouvert
 
 ## Avoir Un *Cloud*
 
