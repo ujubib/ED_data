@@ -188,7 +188,7 @@ Clients Compatibles (dont les clients *NextCloud*)
     -   Une fois terminé, exporter les données nettoyées en cliquant sur `Export > Export to CSV`.
 
 
-## Pour gérer les Images : Tropy
+## Pour organiser ses images : Tropy
 
 <img src="https://hn.maisondelarecherche.fr/wp-content/uploads/2017/10/tropy.jpg" width="200">
 
