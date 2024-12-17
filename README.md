@@ -40,7 +40,6 @@ français
 
 </details>
 
-(TOC)
 
 ## Science Ouverte
 
@@ -50,6 +49,7 @@ français
 
 - [La sauvegarde 3-2-1](https://doranum.fr/stockage-archivage/la-sauvegarde-3-2-1_10_13143_1gdh-tk61/) [video 1'49]
 
+- [Stockage et archivage : fiche synthétique](https://doranum.fr/stockage-archivage/stockage-et-archivage-fiche-synthetique_10_13143_0c4b-2743/)
 
 ## Avoir Un *Cloud*
 
@@ -98,18 +98,16 @@ Clients Compatibles (dont les clients *NextCloud*)
 
 ### Préparation pour la sauvegarde ou le partage
 
-- **Préparation de versements** : Pour partager des données avec d'autres chercheurs, des institutions, ou pour les déposer dans des archives ouvertes, [Archifiltre] peut générer des rapports structurés sur l’ensemble des données.
-- **Export de rapports** : Les doctorants peuvent documenter leurs fichiers avec des métadonnées pour faciliter leur réutilisation.
+- **Préparation de versements** : Pour partager des données avec d'autres chercheurs, des institutions, ou pour les déposer dans des entrepôts de données, [Archifiltre] peut générer des rapports structurés sur l’ensemble des données.
+- **Export de rapports** : vous pouvez documenter vos fichiers avec des métadonnées pour faciliter leur réutilisation.
 
 ### Gestion des grandes quantités de données
 
-- Si un doctorant travaille avec de nombreuses sources (articles, images, données expérimentales, etc.), [Archifiltre] peut aider à rationaliser la gestion de ces informations et à détecter les déséquilibres (fichiers sur-représentés ou absents).
+- Si vous travaillez avec de nombreuses sources (articles, images, données expérimentales, etc.), [Archifiltre] peut aider à rationaliser la gestion de ces informations et à détecter les déséquilibres (fichiers sur-représentés ou absents).
 
 ### Facilitation de la rédaction de la thèse
 
 - Une base de données bien structurée simplifie la recherche d’informations spécifiques lors de la rédaction, évitant de perdre du temps à chercher dans des dossiers désorganisés.
-
-En résumé, [Archifiltre] peut devenir un allié précieux pour rester organisé, optimiser l’espace de stockage, et préparer des dépôts ou publications selon des normes claires. Si tu es doctorant(e), tu pourrais aussi adapter ses fonctionnalités à tes besoins spécifiques, selon ton domaine d'étude ! 🙂
 
 
 ## Nettoyer des données avec OpenRefine
@@ -119,6 +117,12 @@ En résumé, [Archifiltre] peut devenir un allié précieux pour rester organis�
 ### Liens
 
 - Télécharger : <https://openrefine.org/>
+- Tutoriels :
+  - Programming Historian : [Nettoyer ses données avec OpenRefine](https://programminghistorian.org/fr/lecons/nettoyer-ses-donnees-avec-openrefine) 
+  - Mathieu Saby : [Tutoriel OpenRefine 3.4 : nettoyer, préparer et transformer des données](https://msaby.gitlab.io/tutoriel-openrefine/) - 2020-11-06
+  - Aurélien Moisan : [Nettoyer ses données avec OpenRefine (Niveau 1)](https://zenodo.org/records/11263006) - 2024-05-17
+  - Aurélien Moisan : [Enrichir ses données avec OpenRefine (Niveau 2)](https://zenodo.org/records/11449613) - 2024-05-30
+
 
 ### Exercice
 
@@ -157,7 +161,7 @@ En résumé, [Archifiltre] peut devenir un allié précieux pour rester organis�
         -   Remplacer les valeurs "N/A" par `null` ou une valeur par défaut via `Edit cells > Transform` : `if(value == "N/A", null, value)`.
 3.  **Export des données nettoyées :**
     
-    -   Une fois terminé, exporte les données nettoyées en cliquant sur `Export > Export to CSV`.
+    -   Une fois terminé, exporter les données nettoyées en cliquant sur `Export > Export to CSV`.
 
 
 ## Pour gérer les Images : Tropy
@@ -165,4 +169,4 @@ En résumé, [Archifiltre] peut devenir un allié précieux pour rester organis�
 <img src="https://hn.maisondelarecherche.fr/wp-content/uploads/2017/10/tropy.jpg" width="200">
 
 
-Mon support d'atelier : 
+- Mon support d'atelier avec tous les liens : <https://uju-export.netlify.app/ateliertropy/>
