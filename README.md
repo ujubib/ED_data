@@ -50,14 +50,12 @@ français
 
 - [La sauvegarde 3-2-1](https://doranum.fr/stockage-archivage/la-sauvegarde-3-2-1_10_13143_1gdh-tk61/) [video 1'49]
 
-  <iframe id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="100%" height="500" src="https://www.canal-u.tv/embed/117058?bgcolor=ffffff&amp;lock_to_path=1&amp;autoplay=0&amp;autohide_ctrls=0&amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE43MHdLNWpsdFJLb2ZHanI0Mi9EdS9ONEgwQW84M1MzcjZUbStUaGV3PT0&amp;landing_sign=bnropbdT1Oz74oUFrnEct9HqyyvLFRZIBksF7rr3ox8"></iframe>
-
 
 ## Avoir Un *Cloud*
 
 ### Nuage à l'UPPA
 
-![](https://nextcloud.com/c/uploads/2023/02/logo_nextcloud_white.svg | width=200)
+<img src="https://nextcloud.com/wp-content/uploads/2022/10/nextcloud-logo-blue-transparent.svg" width="200" style="display:block;margin-left:auto;margin-right:auto;">
 
 Instance palloise du logiciel [Nextcloud](https://nextcloud.com/)
 
@@ -114,5 +112,55 @@ En résumé, Archifiltre peut devenir un allié précieux pour rester organisé,
 
 ## Nettoyer des données avec OpenRefine
 
+<img src="https://openrefine.org/img/openrefine_logo.svg" width="200" style="display:block;margin-left:auto;margin-right:auto;">
+
+### Liens
+
+- Télécharger : 
+
+### Exercice
+
+fichier `dirty_data.csv`
+
+
+#### Description des problèmes dans les données :
+
+- **Nom** : Incohérences dans les espaces, casse (majuscules/minuscules), et doublons possibles.
+- **Email** : Des doublons sont présents.
+- **Date d'inscription** : Formats de date incohérents et des valeurs manquantes.
+- **Pays** : Variations dans la casse et des espaces inutiles.
+- **Score** : Contient des valeurs "N/A" au lieu de données numériques.
+
+#### Comment nettoyer ces données avec OpenRefine :
+
+1.  Charger les données :
+    
+    -   Ouvrir OpenRefine et importer le fichier CSV.
+
+2.  **Nettoyage des colonnes :**
+    
+    -   **Nom** :
+        -   Utiliser `Edit cells > Common transforms > Trim leading and trailing whitespace` pour supprimer les espaces inutiles.
+        -   Utiliser `Edit cells > Common transforms > To titlecase` pour harmoniser la casse (première lettre en majuscule).
+        -   Vérifier les doublons via `Facet > Text facet`.
+    -   **Email** :
+        -   Vérifier les doublons via `Facet > Text facet` et identifier les entrées répétées.
+    -   **Date d'inscription** :
+        -   Convertir les dates en un format uniforme via `Edit cells > Transform` avec une expression comme : `value.replace("/", "-").replace(" ", "-")`.
+        -   Traiter les valeurs manquantes via `Facet > Customized facet > Facet by blank` pour les détecter.
+    -   **Pays** :
+        -   Supprimer les espaces inutiles via `Trim whitespace`.
+        -   Uniformiser la casse via `To titlecase`.
+    -   **Score** :
+        -   Remplacer les valeurs "N/A" par `null` ou une valeur par défaut via `Edit cells > Transform` : `if(value == "N/A", null, value)`.
+3.  **Export des données nettoyées :**
+    
+    -   Une fois terminé, exporte les données nettoyées en cliquant sur `Export > Export to CSV`.
+
 
 ## Pour gérer les Images : Tropy
+
+<img src="https://hn.maisondelarecherche.fr/wp-content/uploads/2017/10/tropy.jpg" width="200" style="display:block;margin-left:auto;margin-right:auto;">
+
+
+Mon support d'atelier : 
