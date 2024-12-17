@@ -41,7 +41,7 @@ français
 </details>
 
 
-> [!INFO]
+> [!NOTE]
 >
 > *Les données de la recherche sont définies comme des enregistrements factuels (chiffres, textes, images et sons), qui sont utilisés comme sources principales pour la recherche scientifique et sont généralement reconnus par la communauté scientifique comme nécessaires pour valider des résultats de recherche.*
 >
