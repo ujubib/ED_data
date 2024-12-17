@@ -43,7 +43,7 @@ français
 
 ## Science Ouverte
 
-![source : https://scienceouverte.univ-grenoble-alpes.fr/donnees/cycle-de-vie/](https://scienceouverte.univ-grenoble-alpes.fr/wp-content/uploads/2021/09/2021-06-24_Cycle-de-vie-donnees-1-598x600.png)
+![Source : <https://scienceouverte.univ-grenoble-alpes.fr/donnees/cycle-de-vie/>](https://scienceouverte.univ-grenoble-alpes.fr/wp-content/uploads/2021/09/2021-06-24_Cycle-de-vie-donnees-1-598x600.png)
 
 
 ### Chez [DORANum](https://doranum.fr/)
@@ -63,7 +63,8 @@ français
 
 ### Principes FAIR
 
-<iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d64fbbd8352350fa3d22603" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all" width="1200px" height="675px" frameborder="0"></iframe>
+[![<https://view.genial.ly/5d64fbbd8352350fa3d22603>](FAIR.png)](https://view.genial.ly/5d64fbbd8352350fa3d22603)
+
 
 ## Avoir Un *Cloud*
 
