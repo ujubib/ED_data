@@ -40,32 +40,51 @@ français
 
 </details>
 
-[TOC]
+(TOC)
 
 ## Science Ouverte
 
-<https://doranum.fr/>
+### Chez [DORANum](https://doranum.fr/)
 
-## Nommage des fichiers
+- [Comment bien nommer ses fichiers](https://doranum.fr/stockage-archivage/comment-nommer-fichiers_10_13143_wgqw-aa59/)
 
-## Nuage
+- [La sauvegarde 3-2-1](https://doranum.fr/stockage-archivage/la-sauvegarde-3-2-1_10_13143_1gdh-tk61/) [video 1'49]
+
+  <iframe id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="100%" height="500" src="https://www.canal-u.tv/embed/117058?bgcolor=ffffff&amp;lock_to_path=1&amp;autoplay=0&amp;autohide_ctrls=0&amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE43MHdLNWpsdFJLb2ZHanI0Mi9EdS9ONEgwQW84M1MzcjZUbStUaGV3PT0&amp;landing_sign=bnropbdT1Oz74oUFrnEct9HqyyvLFRZIBksF7rr3ox8"></iframe>
+
+
+## Avoir Un *Cloud*
+
+### Nuage à l'UPPA
+
+![](https://nextcloud.com/c/uploads/2023/02/logo_nextcloud_white.svg | width=200)
 
 Instance palloise du logiciel [Nextcloud](https://nextcloud.com/)
 
 - <https://nuage.univ-pau.fr>
 
-Télécharger les clients de Bureau ou pour mobile : 
+Télécharger les clients de bureau ou pour mobile : 
 
 - <https://nextcloud.com/install/#install-clients>
 
-### Chez Huma-Num
+### ShareDocs chez Huma-Num
 
-Instance du logiciel ShareDocs
+![](https://humanid.huma-num.fr/static/humanid/images/apps/sharedocs.png)
+
+Instance du logiciel [FileRun](https://filerun.com/)
+
+- [Documentation ShareDocs **Stockage**](https://documentation.huma-num.fr/sharedocs-stockage/)
+- [Documentation ShareDocs **Traitements**](https://documentation.huma-num.fr/sharedocs-traitement/)
+
+Clients Compatibles (dont les clients *NextCloud*)
+
+- <https://filerun.com/download>
 
 ## Archifiltre
 
+![](https://archifiltre.fabrique.social.gouv.fr/app/uploads/2024/07/Aime-par-Chloe-1-e1721076329956-150x150.png)
 
-Archifiltre, développé par des archivistes et pour des archiviste, peut être un excellent outil pour les doctorants qui gèrent une grande quantité de données, notamment dans les disciplines où la collecte, l'organisation et la structuration des fichiers numériques jouent un rôle important.
+Archifiltre, développé par des archivistes et pour des archivistes, peut être un excellent outil pour les doctorants qui gèrent une grande quantité de données, notamment dans les disciplines où la collecte, l'organisation et la structuration des fichiers numériques jouent un rôle important.
 
 ### Organisation des données de recherche
 
@@ -93,4 +112,7 @@ Archifiltre, développé par des archivistes et pour des archiviste, peut être 
 En résumé, Archifiltre peut devenir un allié précieux pour rester organisé, optimiser l’espace de stockage, et préparer des dépôts ou publications selon des normes claires. Si tu es doctorant(e), tu pourrais aussi adapter ses fonctionnalités à tes besoins spécifiques, selon ton domaine d'étude ! 🙂
 
 
-## OpenRefine
+## Nettoyer des données avec OpenRefine
+
+
+## Pour gérer les Images : Tropy
